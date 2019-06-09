@@ -1,1 +1,1 @@
-This is file2.
+This is file2.This is for practise of reverting the code after add and commit.Here we will be using soft reset where only the commit message will be deleted,but the content will be there in the staging area.
